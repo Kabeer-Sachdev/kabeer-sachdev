@@ -35,3 +35,7 @@
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kabeer-Sachdev&theme=radical)
+
+## 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabeer-sachdev-ba9443287/)
