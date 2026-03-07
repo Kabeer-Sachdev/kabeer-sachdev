@@ -42,6 +42,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachdevkabeer@gmail.com)
 
 
-## ✨  Dev Quote
+## ✨ Random  Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
