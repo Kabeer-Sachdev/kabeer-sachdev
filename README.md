@@ -145,17 +145,37 @@
 
 ---
 
-## 📊 GITHUB LIVE TELEMETRY & CODING STREAK
+## 🎓 EDUCATION
+
+* **Bachelor of Technology (B.Tech) — Computer Science & Engineering (CSE)**
+  * **Duration:** *2023 – 2027*
+  * **Core Focus:** Artificial Intelligence, Multi-Agent Systems, Data Structures & Algorithms, Distributed Backend Architecture
+
+---
+
+## 📊 GITHUB LIVE TELEMETRY & CONTRIBUTION MATRIX
 
 <div align="center">
 
+### 🐍 24/7 Contribution Grid Snake
+<p align="center">
+  <img src="assets/snake.gif" width="100%" alt="Kabeer's Contribution Snake Animation" style="border-radius: 12px; box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);" />
+</p>
+
+### 📈 Activity & Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-Sachdev&theme=tokyo-night&hide_border=true&border_radius=12&area=true&color=38bdf8" width="100%" alt="Kabeer's GitHub Contribution Graph" />
+</p>
+
+### ⚡ Developer Velocity & Coding Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kabeer-Sachdev&theme=tokyonight&hide_border=true&border_radius=12&background=0F172A&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8" width="49%" alt="Kabeer's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kabeer-Sachdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&icon_color=34D399&text_color=CBD5E1" width="49%" alt="Kabeer's GitHub Stats" />
 </p>
 
+### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-Sachdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" width="58%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-Sachdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&langs_count=6" width="46%" alt="Top Languages" />
 </p>
 
 </div>
