@@ -157,11 +157,6 @@
 
 <div align="center">
 
-### 🐍 24/7 Contribution Grid Snake
-<p align="center">
-  <img src="assets/snake.gif" width="100%" alt="Kabeer's Contribution Snake Animation" style="border-radius: 12px; box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);" />
-</p>
-
 ### 📈 Activity & Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-Sachdev&theme=tokyo-night&hide_border=true&border_radius=12&area=true&color=38bdf8" width="100%" alt="Kabeer's GitHub Contribution Graph" />
